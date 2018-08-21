@@ -1,1 +1,1 @@
-# gay
+cl_crosshairalpha 255; cl_crosshaircolor 4; cl_crosshairdot 0; cl_crosshairgap 0; cl_crosshairsize 3; cl_crosshairstyle 4; cl_crosshairusealpha 1; cl_crosshairthickness 1; cl_crosshair_sniper_width 1; cl_crosshair_drawoutline 1;
